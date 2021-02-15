@@ -1,0 +1,23 @@
+apiVersion: training.eduk8s.io/v1alpha1
+kind: TrainingPortal
+metadata:
+  name: training-portal
+spec:
+  portal:
+    title: Workshop Portal
+    capacity: 10
+    registration:
+      type: anonymous
+    reserved: 1
+    expires: 60m
+    orphaned: 5m
+  workshops:
+  - name: lab-image-security
+  - name: lab-k8s-fundamentals
+  - name: lab-getting-started-with-octant
+  - name: lab-spring-boot-k8s-getting-started
+  - name: lab-container-basics
+  - name: lab-getting-started-with-carvel
+  - name: lab-spring-boot-k8s-probes
+  - name: lab-spring-boot-k8s-skaffold
+  - name: lab-python-containers
