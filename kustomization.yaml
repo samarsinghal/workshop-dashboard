@@ -2,7 +2,6 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 
 resources:
-# - resources/workshop-portal.yaml
 - resources/workshop/lab-image-security.yaml
 - resources/workshop/lab-image-security.yaml
 - resources/workshop/lab-k8s-fundamentals.yaml
@@ -13,3 +12,5 @@ resources:
 - resources/workshop/lab-spring-boot-k8s-probes.yaml
 - resources/workshop/lab-spring-boot-k8s-skaffold.yaml
 - resources/workshop/lab-python-containers.yaml
+- resources/workshop-portal.yaml
+
