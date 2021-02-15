@@ -3,4 +3,4 @@ kind: Kustomization
 
 resources:
 - resources/workshop-portal.yaml
-- resources/workshop/*
+- resources/workshop/lab-image-security.yaml
