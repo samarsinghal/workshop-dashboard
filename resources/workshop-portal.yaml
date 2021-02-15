@@ -15,7 +15,7 @@ spec:
   - name: lab-image-security
   - name: lab-k8s-fundamentals
   - name: lab-getting-started-with-octant
-  - name: lab-spring-boot-k8s-getting-started
+  - name: lab-spring-boot-k8s-gs
   - name: lab-container-basics
   - name: lab-getting-started-with-carvel
   - name: lab-spring-boot-k8s-probes
