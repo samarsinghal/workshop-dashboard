@@ -5,11 +5,11 @@ metadata:
 spec:
   portal:
     title: Workshop Portal
-    capacity: 10
+    capacity: 15
     registration:
       type: anonymous
-    reserved: 1
-    expires: 60m
+    reserved: 0
+    expires: 90m
     orphaned: 5m
   workshops:
   - name: lab-image-security
