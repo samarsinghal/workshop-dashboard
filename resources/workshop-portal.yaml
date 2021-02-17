@@ -14,7 +14,7 @@ spec:
     orphaned: 5m
     sessions:
       maximum: 10
-      anonymous: 1
+#       anonymous: 1
   workshops:
   - name: lab-image-security
   - name: lab-k8s-fundamentals
