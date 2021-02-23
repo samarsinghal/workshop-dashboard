@@ -11,5 +11,5 @@ resources:
 # - resources/workshop/lab-spring-boot-k8s-probes.yaml
 # - resources/workshop/lab-spring-boot-k8s-skaffold.yaml
 # - resources/workshop/lab-python-containers.yaml
-# - resources/workshop-portal.yaml
+- resources/workshop-portal.yaml
 
