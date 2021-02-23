@@ -3,13 +3,13 @@ kind: Kustomization
 
 resources:
 - resources/workshop/lab-image-security.yaml
-- resources/workshop/lab-k8s-fundamentals.yaml
-- resources/workshop/lab-getting-started-with-octant.yaml
-- resources/workshop/lab-spring-boot-k8s-getting-started.yaml
-- resources/workshop/lab-container-basics.yaml
-- resources/workshop/lab-getting-started-with-carvel.yaml
-- resources/workshop/lab-spring-boot-k8s-probes.yaml
-- resources/workshop/lab-spring-boot-k8s-skaffold.yaml
-- resources/workshop/lab-python-containers.yaml
-- resources/workshop-portal.yaml
+# - resources/workshop/lab-k8s-fundamentals.yaml
+# - resources/workshop/lab-getting-started-with-octant.yaml
+# - resources/workshop/lab-spring-boot-k8s-getting-started.yaml
+# - resources/workshop/lab-container-basics.yaml
+# - resources/workshop/lab-getting-started-with-carvel.yaml
+# - resources/workshop/lab-spring-boot-k8s-probes.yaml
+# - resources/workshop/lab-spring-boot-k8s-skaffold.yaml
+# - resources/workshop/lab-python-containers.yaml
+# - resources/workshop-portal.yaml
 
