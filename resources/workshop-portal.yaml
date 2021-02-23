@@ -6,22 +6,22 @@ spec:
   portal:
     password: PlatformTuesday
     title: Workshop Portal
-    capacity: 15
+    capacity: 20
     registration:
       type: anonymous
     reserved: 0
     expires: 90m
     orphaned: 5m
     sessions:
-      maximum: 10
+      maximum: 20
 #       anonymous: 1
   workshops:
   - name: lab-image-security
-  - name: lab-k8s-fundamentals
-  - name: lab-getting-started-with-octant
-  - name: lab-spring-boot-k8s-gs
-  - name: lab-container-basics
-  - name: lab-getting-started-with-carvel
-  - name: lab-spring-boot-k8s-probes
-  - name: lab-spring-boot-k8s-skaffold
-  - name: lab-python-containers
+#   - name: lab-k8s-fundamentals
+#   - name: lab-getting-started-with-octant
+#   - name: lab-spring-boot-k8s-gs
+#   - name: lab-container-basics
+#   - name: lab-getting-started-with-carvel
+#   - name: lab-spring-boot-k8s-probes
+#   - name: lab-spring-boot-k8s-skaffold
+#   - name: lab-python-containers
