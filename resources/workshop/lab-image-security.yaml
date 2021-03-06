@@ -5,9 +5,9 @@ metadata:
 spec:
   title: Image Security
   description: An interactive workshop on constructing secure images.
-  url: https://github.com/samarsinghal/lab-image-security
+  url: https://github.com/eduk8s-labs/lab-image-security
   content:
-    files: github.com/samarsinghal/lab-image-security
+    files: github.com/eduk8s-labs/lab-image-security
   vendor: eduk8s.io
   authors:
   - Graham Dumpleton
@@ -22,18 +22,7 @@ spec:
       terminal:
         enabled: true
         layout: split
-      console:
-        enabled: true
-        vendor: octant
-      editor:
-        enabled: true
       docker:
         enabled: true
       registry:
         enabled: true
-    # ingresses:
-    # - name: application
-    #   port: 8080
-    # dashboards:
-    # - name: Harbor
-    #   url: http://harbor.workshop.add2cloud.com/
