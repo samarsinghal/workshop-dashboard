@@ -18,6 +18,7 @@ spec:
   workshops:
   - name: lab-container-security-01
   - name: lab-container-security-02
+  - name: lab-configuration-management
 #   - name: lab-k8s-fundamentals
 #   - name: lab-getting-started-with-octant
 #   - name: lab-spring-boot-k8s-gs
