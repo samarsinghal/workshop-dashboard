@@ -24,6 +24,6 @@ spec:
 #   - name: lab-spring-boot-k8s-gs
 #   - name: lab-container-basics
 #   - name: lab-getting-started-with-carvel
-#   - name: lab-spring-boot-k8s-probes
+  - name: lab-spring-boot-k8s-probes
 #   - name: lab-spring-boot-k8s-skaffold
 #   - name: lab-python-containers
