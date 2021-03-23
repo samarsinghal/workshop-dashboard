@@ -10,7 +10,7 @@ spec:
   duration: 60m
   content: 
     image: jdk11-environment:*
-    files: github.com/eduk8s-labs/lab-spring-boot-k8s-probes
+    files: github.com/samarsinghal/lab-spring-boot-k8s-probes
   session:
     budget: large
     resources:
