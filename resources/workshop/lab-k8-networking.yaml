@@ -20,7 +20,7 @@ spec:
     applications:
       terminal:
         enabled: true
-        layout: split
+        layout: default
       console:
         enabled: true
         vendor: octant
