@@ -6,6 +6,7 @@ resources:
 - resources/workshop/lab-container-security-02.yaml
 - resources/workshop/lab-configuration-management.yaml
 - resources/workshop/lab-tas4ops.yaml
+- resources/workshop/lab-k8-networking.yaml
 # - resources/workshop/lab-getting-started-with-octant.yaml
 # - resources/workshop/lab-spring-boot-k8s-getting-started.yaml
 # - resources/workshop/lab-container-basics.yaml
