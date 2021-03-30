@@ -19,7 +19,7 @@ spec:
   - name: lab-container-security-01
   - name: lab-container-security-02
   - name: lab-configuration-management
-  # - name: lab-tas4ops
+  - name: lab-tas4ops
   - name: lab-k8-networking
 
 #   - name: lab-getting-started-with-octant
