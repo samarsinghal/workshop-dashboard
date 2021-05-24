@@ -7,7 +7,7 @@ spec:
   description: An interactive workshop on TAS operations
   url: https://github.com/samarsinghal/tas4ops-workshop-eduk8s.git
   content:
-    # image: docker.io/samarsinghal/workshop:latest
+    image: docker.io/samarsinghal/workshop:latest
     files: github.com/samarsinghal/tas4ops-workshop-eduk8s
   vendor: eduk8s.io
   difficulty: intermediate
