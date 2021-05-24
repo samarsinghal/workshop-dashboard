@@ -7,9 +7,8 @@ spec:
   description: An interactive workshop on TAS operations
   url: https://github.com/samarsinghal/tas4ops-workshop-eduk8s.git
   content:
-    image: quay.io/eduk8s-labs/lab-k8s-fundamentals:master
     # image: docker.io/samarsinghal/workshop:latest
-    # files: github.com/samarsinghal/tas4ops-workshop-eduk8s
+    files: github.com/samarsinghal/tas4ops-workshop-eduk8s
   vendor: eduk8s.io
   difficulty: intermediate
   duration: 60m
