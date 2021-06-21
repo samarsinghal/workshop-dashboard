@@ -16,7 +16,7 @@ spec:
   - containers
   session:
     namespaces:
-      budget: medium
+      budget: xx-large
     applications:
       terminal:
         enabled: true
