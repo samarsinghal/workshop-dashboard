@@ -8,7 +8,8 @@ spec:
   url: https://github.com/samarsinghal/lab-k8-scg
   content:
 #     image: docker.io/samarsinghal/workshop:latest
-    image: harbor.tanzu.frankcarta.com/workshop/tkg_workshop:latest
+#     image: harbor.tanzu.frankcarta.com/workshop/tkg_workshop:latest
+    image: docker.io/samarsinghal/tkg_workshop:latest
     files: github.com/samarsinghal/lab-k8-scg
   vendor: eduk8s.io
   difficulty: intermediate
