@@ -4,7 +4,7 @@ metadata:
   name: portal
 spec:
   portal:
-    password: PlatformTuesday
+#     password: PlatformTuesday
     title: Workshop Portal
     capacity: 20
     registration:
