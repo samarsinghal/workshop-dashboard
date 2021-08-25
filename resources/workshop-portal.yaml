@@ -23,6 +23,7 @@ spec:
   - name: lab-k8-networking
   - name: lab-tekton-fundamentals
   - name: lab-k8-scg
+  - name: lab-tanzu-env
 #   - name: lab-getting-started-with-octant
 #   - name: lab-spring-boot-k8s-gs
 #   - name: lab-container-basics
