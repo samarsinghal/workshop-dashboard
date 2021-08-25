@@ -7,7 +7,7 @@ spec:
   description: An interactive workshop on Spring Cloud Gateway on K8s
   url: https://github.com/samarsinghal/lab-tanzu-env
   content:
-    image: harbor.tanzu.frankcarta.com/workshop/tkg_workshop:latest
+    image: harbor.tanzu.frankcarta.com/workshop/tanzu-env:latest
     files: github.com/samarsinghal/lab-tanzu-env
   vendor: eduk8s.io
   difficulty: intermediate
