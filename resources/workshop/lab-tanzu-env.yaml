@@ -4,10 +4,10 @@ metadata:
   name: lab-tanzu-env
 spec:
   title: Tanzu Environment
-  description: An interactive workshop on Spring Cloud Gateway on K8s
+  description: An workshop env to explore Tanzu 
   url: https://github.com/samarsinghal/lab-tanzu-env
   content:
-    image: harbor.tanzu.frankcarta.com/workshop/tanzu-env:latest
+    image: harbor.tanzu.frankcarta.com/workshop/tanzu_env:latest
     files: github.com/samarsinghal/lab-tanzu-env
   vendor: eduk8s.io
   difficulty: intermediate
