@@ -7,7 +7,7 @@ spec:
   description: An interactive workshop on Kubernetes Spring Cloud Gateway
   url: https://github.com/samarsinghal/lab-k8-scg
   content:
-    image: samarsinghal/tanzu_env:latest
+    image: samarsinghal/workshop:latest
 #     image: harbor.tanzu.frankcarta.com/workshop/tkg_workshop:latest
 #     image: docker.io/samarsinghal/tkg_workshop:latest
     files: github.com/samarsinghal/lab-k8-scg
