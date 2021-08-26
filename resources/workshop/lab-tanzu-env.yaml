@@ -7,7 +7,7 @@ spec:
   description: An workshop env to explore Tanzu 
   url: https://github.com/samarsinghal/lab-tanzu-env
   content:
-    image: harbor.tanzu.frankcarta.com/workshop/tanzu_env:latest
+    image: samarsinghal/tanzu_env:latest
     files: github.com/samarsinghal/lab-tanzu-env
   vendor: eduk8s.io
   difficulty: intermediate
