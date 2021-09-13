@@ -5,10 +5,10 @@ metadata:
 spec:
   title: Tanzu Environment
   description: An workshop env to explore Tanzu 
-  url: https://github.com/samarsinghal/lab-tanzu-env
+  url: https://github.com/fcarta29/tanzu-advanced-poc
   content:
     image: samarsinghal/tanzu_env:latest
-    files: github.com/samarsinghal/lab-tanzu-env
+    files: github.com/fcarta29/tanzu-advanced-poc
   vendor: eduk8s.io
   difficulty: intermediate
   duration: 120m
@@ -20,11 +20,11 @@ spec:
     applications:
       terminal:
         enabled: true
-      console:
-        enabled: true
-        vendor: octant
-      editor:
-        enabled: true
+      # console:
+      #   enabled: true
+      #   vendor: octant
+      # editor:
+      #   enabled: true
       docker:
         enabled: true
       registry:
