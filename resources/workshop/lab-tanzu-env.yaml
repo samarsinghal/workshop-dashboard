@@ -7,7 +7,7 @@ spec:
   description: An workshop env to explore Tanzu 
   url: https://github.com/fcarta29/tanzu-advanced-poc
   content:
-    image: samarsinghal/tanzu_env:latest
+    image: harbor.tanzu.frankcarta.com/workshop/tanzu_env
     files: github.com/fcarta29/tanzu-advanced-poc
   vendor: eduk8s.io
   difficulty: intermediate
